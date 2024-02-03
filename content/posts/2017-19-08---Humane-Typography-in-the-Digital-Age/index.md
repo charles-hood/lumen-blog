@@ -1,5 +1,5 @@
 ---
-title: The Low FODMAP Diet: A Tummy-Friendly Adventure
+title: The Low FODMAP Diet A Tummy-Friendly Adventure
 date: "2024-02-03T22:40:32.169Z"
 template: "post"
 draft: false
