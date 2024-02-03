@@ -1,5 +1,5 @@
 ---
-title: The Low FODMAP Diet A Tummy-Friendly Adventure
+title: The Low FODMAP Diet
 date: "2024-02-03T22:40:32.169Z"
 template: "post"
 draft: false
@@ -9,10 +9,10 @@ tags:
   - "Diet"
   - "Food"
   - "FODMAP"
-description: "let's dive into the mysterious world of the Low FODMAP diet"
+description: "Let's dive into the mysterious world of the Low FODMAP diet"
 socialImage: "./media/42-line-bible.jpg"
 ---
-# The Low FODMAP Diet: A Tummy-Friendly Adventure 🌮
+# A Tummy-Friendly Adventure 🌮
 
 Hey there, fellow foodies! Today, let's dive into the mysterious world of the Low FODMAP diet. It might sound like a techy acronym, but fear not – I'm here to break it down for you in plain English. So, grab a snack and let's chat about how this diet can be a game-changer for your tummy!
 
