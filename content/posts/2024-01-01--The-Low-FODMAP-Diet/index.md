@@ -17,7 +17,7 @@ socialImage: "./media/lowfodmap.png"
 Hey there, fellow foodies! Today, let's dive into the mysterious world of the Low FODMAP diet. It might sound like a techy acronym, but fear not – I'm here to break it down for you in plain English. So, grab a snack and let's chat about how this diet can be a game-changer for your tummy!
 
 <figure style="float: right; margin: 0px 0px 10px 10px; width: 200px;">
-  <img src="/media/lowfodmap.png" alt="Low FODMAP" height="200px">
+  <img src="/media/lowfodmap.png" alt="Low FODMAP" height="100px">
   <figcaption style="text-align: center;">Low FODMAP</figcaption>
 </figure>
 
