@@ -4,7 +4,7 @@ template: "page"
 socialImage: "./cdh-arms-folded-400.jpg"
 ---
 
-<img src="https://raw.githubusercontent.com/charles-hood/lumen-blog/master/content/pages/about/cdh-arms-folded-400.jpg" alt="Charles Hood" style="float: left; margin: 0 10px 10px 0; border-radius: 10%; width: 250px;"/>
+<img src="https://raw.githubusercontent.com/charles-hood/lumen-blog/master/content/pages/about/cdh-arms-folded-400.jpg" alt="Charles Hood" style="float: right; margin: 0 0 10px 10px; border-radius: 10%; width: 250px;"/>
 
 Hey there! 👋 I'm a tech enthusiast in my 50s, living in either "Atlanta" or Woodstock, GA &mdash; depending on who's asking. My passions include tech, live music, and exploring new places through travel.
 
