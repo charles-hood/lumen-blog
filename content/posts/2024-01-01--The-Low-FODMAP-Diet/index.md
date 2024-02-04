@@ -10,7 +10,7 @@ tags:
   - "Food"
   - "FODMAP"
 description: "Let's dive into the mysterious world of the Low FODMAP diet"
-socialImage: "./media/42-line-bible.jpg"
+socialImage: "./media/lowfodmap.png"
 ---
 # A Tummy-Friendly Adventure 🌮
 Hey there, fellow foodies! Today, let's dive into the mysterious world of the Low FODMAP diet. It might sound like a techy acronym, but fear not – I'm here to break it down for you in plain English. So, grab a snack and let's chat about how this diet can be a game-changer for your tummy!
