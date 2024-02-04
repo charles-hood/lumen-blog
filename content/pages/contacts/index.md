@@ -1,31 +1,20 @@
 ---
-title: "Contact me"
+title: "Get in Touch"
 template: "page"
-socialImage: "./book.jpg"
+socialImage: "./get-in-touch.png"
 ---
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+Hello there! 👋 I'd love to hear from you. Whether you have questions, suggestions, or just want to say hi, feel free to reach out.
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+## ~Twitter~ X is my Playground 🐦
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/book.jpg)
+The best way to stay in touch is through X. Follow me [@charleshood](https://twitter.com/charleshood) for tech insights, music recommendations, and general ramblings.
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+## Connect on LinkedIn 💼
 
-## Header Level 2
+For professional inquiries or to connect on a more formal platform, visit my [LinkedIn profile](https://www.linkedin.com/in/charleshood/). Let's build our professional network!
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+## Drop Me an Email 📬
 
-- **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-- Aliquam tincidunt mauris eu risus.
-- Vestibulum auctor dapibus neque.
+Have a more detailed inquiry or just prefer email? Shoot me a message at [charles.hood@gmail.com](mailto:charles.hood@gmail.com). I'll get back to you as soon as possible.
 
-### Header Level 3
-
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
-
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
