@@ -1,13 +1,27 @@
 ---
-title: "About me"
+title: "About Me"
 template: "page"
-socialImage: "./notebook.jpg"
+socialImage: "./cdh-arms-folded-400.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+# Charles Hood
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+![Charles Hood](https://raw.githubusercontent.com/charles-hood/lumen-blog/master/content/pages/about/cdh-arms-folded-400.jpg)
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+Hey there! 👋 I'm a tech enthusiast in my 50s, living in either "Atlanta" or Woodstock, GA &mdash; depending on who's asking. My passions include tech, live music, and exploring new places through travel.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+## Techie Adventures 💻
+
+As a tech enthusiast, I love diving into the latest gadgets, coding projects, and exploring the ever-evolving tech landscape. From tinkering with new software to embracing the latest tech trends, I'm always up for a digital adventure.
+
+## Musical Tastes 🎶
+
+**Small venues, big passion.** There's something truly magical about experiencing music in a space where the energy is palpable and the connection between artists and audience is undeniable. That's where I thrive.
+
+**Supporting local artists is a priority for me.** I'm convinced that some of the most talented musicians are right here in our communities, and I'm committed to championing their voices.
+
+## Adventures Beyond Borders ✈️
+
+Travel is another passion of mine. Exploring new places, meeting interesting people, and immersing myself in the beauty of different landscapes—these adventures beyond borders fuel my curiosity.
+
+Thanks for stopping by, and feel free to connect on [Twitter](https://twitter.com/charleshood) or [LinkedIn](https://www.linkedin.com/in/charleshood/). Let's share our love for tech, tunes and travel!
