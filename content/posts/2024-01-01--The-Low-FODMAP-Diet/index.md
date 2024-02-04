@@ -12,11 +12,15 @@ tags:
 description: "Let's dive into the mysterious world of the Low FODMAP diet"
 socialImage: "./media/lowfodmap.png"
 ---
+
 # A Tummy-Friendly Adventure 🌮
 Hey there, fellow foodies! Today, let's dive into the mysterious world of the Low FODMAP diet. It might sound like a techy acronym, but fear not – I'm here to break it down for you in plain English. So, grab a snack and let's chat about how this diet can be a game-changer for your tummy!
-<p align="center">
+
+<figure style="float: right; margin: 0px 0px 10px 10px; width: 200px;">
   <img src="/media/lowfodmap.png" alt="Low FODMAP" height="200px">
-</p>
+  <figcaption style="text-align: center;">Low FODMAP</figcaption>
+</figure>
+
 ## What on Earth is FODMAP?
 First things first, FODMAP stands for Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols. Yeah, it's a mouthful, but essentially, these are types of carbohydrates that can wreak havoc on sensitive tummies.
 
