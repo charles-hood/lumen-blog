@@ -21,7 +21,7 @@ Pizza lovers, rejoice! Today marks [National Pizza Day](https://www.usatoday.com
 
 ## A Brief History of National Pizza Day
 
-National Pizza Day is observed annually on February 9th. While its exact origins are a bit hazy, it's clear that the day has become a global celebration of all things pizza. Whether you prefer classic Margherita, meat-lover's extravaganzas, or creative vegetarian options, National Pizza Day is the perfect excuse to indulge in your favorite pie.
+National Pizza Day is observed annually on [February 9th](https://nationaltoday.com/national-pizza-day/). While its exact origins are a bit hazy, it's clear that the day has become a global celebration of all things pizza. Whether you prefer classic Margherita, meat-lover's extravaganzas, or creative vegetarian options, National Pizza Day is the perfect excuse to indulge in your favorite pie.
 
 ## How to Celebrate
 
