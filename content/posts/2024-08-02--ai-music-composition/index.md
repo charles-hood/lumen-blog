@@ -1,6 +1,6 @@
 ---
 title: "How AI is Changing Music Creation"
-date: "2024-02-10"
+date: "2024-02-08"
 template: "post"
 draft: false
 slug: "/posts/ai-music-composition"
