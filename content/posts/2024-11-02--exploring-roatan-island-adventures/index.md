@@ -23,7 +23,7 @@ This is my first blog post on my exploration of the island of at [Roatán 🇭�
 
 The adventure begins as I land at RTB (Roatán) airport, where the stark differences from my departure at ATL airport become evident. Disembarking directly onto the tarmac, the warm Caribbean air welcomes me, making me regret my choice of blue jeans for travel. Navigating through customs, filled with excited tourists, I catch snippets of SCUBA diving chatter, highlighting Roatan's reputation as a great diving destination with accessible reefs and affordable certification.
 
-Customs entry is a breeze with a pre-completed online declaration. Once my luggage is secured, an interesting "econo-box" awaits as our chosen mode of transportation, showcasing the unique aspects of island life, from hanging wiring to a laid-back approach to traffic rules.
+Customs entry is a breeze with a pre-completed online declaration. Once my luggage is secured, a beat up Toyota "econo-box" awaits as our chosen mode of rental transportation. The drive from the airport begins my first impressions of island life, from electrical wiring hanging/looped from poles, to a laid-back approach to traffic rules.
 
 ## Grocery Shopping Island Style
 
