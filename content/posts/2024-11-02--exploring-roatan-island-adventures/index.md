@@ -17,11 +17,11 @@ socialImage: "./media/IMG_5885.jpeg"
   <img src="./media/IMG_5885.jpeg" alt="Roatan Sunset" style="width: 100%;">
 </div>
 
-This is my first blog post on my exploration of the island of Roatan, hopefully my words and pictures can help share the beauty of sun, sea, and island life.
+This is my first blog post on my exploration of the island of at [Roatan 🇭🇳](https://en.wikipedia.org/wiki/Roat%C3%A1n), hopefully my words and pictures can help share the beauty of sun, sea, and island life.
 
 ## Arrival at RTB Airport
 
-The adventure begins as I land at [RTB (Roatan) 🇭🇳](https://en.wikipedia.org/wiki/Roat%C3%A1n) airport, where the stark differences from my departure at ATL airport become evident. Disembarking directly onto the tarmac, the warm Caribbean air welcomes me, making me regret my choice of blue jeans for travel. Navigating through customs, filled with excited tourists, I catch snippets of SCUBA diving chatter, highlighting Roatan's reputation as a great diving destination with accessible reefs and affordable certification.
+The adventure begins as I land at RTB (Roatan) airport, where the stark differences from my departure at ATL airport become evident. Disembarking directly onto the tarmac, the warm Caribbean air welcomes me, making me regret my choice of blue jeans for travel. Navigating through customs, filled with excited tourists, I catch snippets of SCUBA diving chatter, highlighting Roatan's reputation as a great diving destination with accessible reefs and affordable certification.
 
 Customs entry is a breeze with a pre-completed online declaration. Once my luggage is secured, an interesting "econo-box" awaits as our chosen mode of transportation, showcasing the unique aspects of island life, from hanging wiring to a laid-back approach to traffic rules.
 
