@@ -43,7 +43,7 @@ Walking back in darkness, illuminated by phone flashlights, the allure of Roatan
 
 ## Google Photos Album
 
-For a visual glimpse of my Roatan adventure, check out my [Google Photos album](link-to-your-Google-photos-album).
+For a visual glimpse of my Roatan adventure, check out my [Google Photos album](https://photos.app.goo.gl/rJ4fRqyrogQrrALG7)
 
 ## Conclusion
 
