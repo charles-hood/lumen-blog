@@ -9,15 +9,15 @@ tags:
   - "Roatan"
   - "Island Adventure"
   - "Travel"
-description: "Embark on a journey through Roatan, from landing at RTB airport to the sandy beaches and unique experiences. Discover the charm of this Caribbean gem."
-socialImage: "./media/roatan_sunset.jpg"
+description: "Embark on a journey to Roatan, from landing at RTB airport to the sandy beaches and unique experiences. Discover the charm of this Caribbean gem."
+socialImage: "./media/IMG_5885.jpeg"
 ---
 
 <div style="float: right; margin: 0 0 10px 20px; width: 200px; border-radius: 10px; overflow: hidden;">
-  <img src="./media/roatan_sunset.jpg" alt="Roatan Sunset" style="width: 100%;">
+  <img src="./media/IMG_5885.jpeg" alt="Roatan Sunset" style="width: 100%;">
 </div>
 
-Greetings, fellow adventurers! Join me on a virtual exploration of Roatan, where each step unveils the beauty of sun, sea, and island life.
+This is my first blog post on my exploration of the island of Roatan, hopefully my words and pictures can help share the beauty of sun, sea, and island life.
 
 ## Arrival at RTB Airport
 
@@ -27,11 +27,11 @@ Customs entry is a breeze with a pre-completed online declaration. Once my lugga
 
 ## Grocery Shopping Island Style
 
-Adjusting to "island time," our first stop includes a grocery store adventure. Limited options teach the lesson of buy today or wait until tomorrow, a unique aspect of island living. Armed guards in the store, though not uncommon for me being from the South, add a distinctive touch. Our grocery haul boxed by friendly locals, we tip them generously for their assistance.
+Adjusting to "island time," our first stop includes a grocery store adventure. Limited options teach the lesson of buy today or wait until tomorrow, a unique aspect of island living. Armed guards in the store, add a distinctive touch. Our grocery haul boxed by friendly locals, we tip them generously for their assistance.
 
 ## Settling into Airbnb
 
-Navigating dirt roads, we reach our Airbnb, perched on the second story of a townhouse right on the water. The unique journey is rewarded with a beach view and the sound of horses from a nearby resort. As I put away my belongings, the charm of the accommodation sinks in.
+Navigating dirt roads, we reach our Airbnb, perched on the second story of a townhouse right on the water. My journey is rewarded with a beach view and the sound of horses from a nearby resort. As I put away my belongings, the charm of the locale sinks in.
 
 ## Beach Exploration and Sunset Dining
 
@@ -49,4 +49,4 @@ For a visual glimpse of my Roatan adventure, check out my [Google Photos album](
 
 Day 1 in Roatan unveils the island's unique charm – from the quirks of transportation and grocery shopping to the beach's vibrant life and tranquil nights. Stay tuned for more tales of sun-soaked exploration in this Caribbean paradise!
 
-**Share with me:** Have you ever experienced the magic of Roatan? Share your island adventures and tips for exploring hidden gems!
+**Share with me:** Have you ever experienced the magic of Caribbean life? Share your island adventures and tips for exploring hidden gems!
