@@ -1,5 +1,5 @@
 ---
-title: "Day 2 in Roatán: Sun, Snorkels, and Super Bowl Snacks"
+title: "Day 2 in Roatán: Snorkels and Super Bowl Snacks"
 date: "2024-02-12"
 template: "post"
 draft: false
@@ -9,7 +9,7 @@ tags:
   - "Roatan"
   - "Snorkeling"
   - "Super Bowl"
-description: "Embark on Day 2 of the Roatán adventure, from early morning solitude to snorkeling explorations and a low key Super Bowl party. Join the journey!"
+description: "Day 2 of my Roatán adventure, from early morning solitude to snorkeling explorations and a low key Super Bowl party."
 socialImage: "./media/FullSizeRender.jpeg"
 ---
 
