@@ -49,7 +49,9 @@ Despite a touch of nervousness at first, we spent a blissful hour underwater, th
 
 ## Super Bowl Fiesta:
 
-Back at the Airbnb, it was time to fuel up for the Super Bowl, which started at 5:30pm here in the Central Time Zone. While not a die-hard fan, I couldn't miss this cultural phenomenon. But before getting sucked into the game, I quickly stepped back down to the beach to capture another stunning sunset. I shared a [video](https://youtu.be/5abvJ3uQ75A?si=kq-vWvPV38acUriF) of it on YouTube, check it out.
+Back at the Airbnb, it was time to fuel up for the Super Bowl, which started at 5:30pm here in the Central Time Zone. While not a die-hard fan, I couldn't miss this cultural phenomenon. But before getting sucked into the game, I quickly stepped back down to the beach to capture another stunning sunset. I shared a [video](https://youtu.be/5abvJ3uQ75A?si=kq-vWvPV38acUriF) of it on YouTube, check it out:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5abvJ3uQ75A?si=dAHY1AFuh43ccpIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Dude Food & Sweet Surprises:
 
