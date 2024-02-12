@@ -9,7 +9,7 @@ tags:
   - "Roatan"
   - "Snorkeling"
   - "Super Bowl"
-description: "Day 2 of my Roatán adventure, from early morning solitude to snorkeling explorations and a low key Super Bowl party."
+description: "Exploration, snorkeling and a low key Super Bowl party."
 socialImage: "./media/FullSizeRender.jpeg"
 ---
 
@@ -17,27 +17,27 @@ socialImage: "./media/FullSizeRender.jpeg"
   <img src="./media/FullSizeRender.jpeg" alt="Roatan Snorkeling" style="width: 100%;">
 </div>
 
-Greetings from sunny Roatán! Today was another amazing day filled with exploration, adventure, and some unexpected treats. Buckle up, because I'm about to take you on a journey through my second day in the jewel of the Bay Islands.
+Greetings from sunny Roatán! Today was another amazing day filled with exploration and unexpected treats. Buckle up, because I'm about to take you on a journey through my second day in the jewel of the Bay Islands.
 
 ## Morning Magic:
 
-Waking up refreshed, my day started early, with a simple breakfast of hot tea and instant grits (a Southern touch I packed from home) and a breathtaking ocean view from my patio. With the warm Caribbean breeze flowing over my face, I couldn't help but wonder why anyone would choose cold weather when places like this exist.
+Waking up refreshed, my day started early, with a simple breakfast of hot tea and instant grits (a Southern touch I packed from home) and a serene ocean view from my patio. With the warm Caribbean breeze flowing over my face, I couldn't help but wonder why anyone would choose cold weather when places like this exist.
 
 ## Writing on the Road:
 
-Taking advantage of the quiet morning, I whipped out my iPad and penned yesterday's [blog post](https://charleshood.net/posts/exploring-roatan-island-adventures/) (check it out if you haven't already!). Reflecting on my experiences helps me truly savor them, and who knows, maybe someone out there enjoys reading them too.
+Taking advantage of the quiet morning, I got out my iPad and penned yesterday's [blog post](https://charleshood.net/posts/exploring-roatan-island-adventures/) (check it out if you haven't already!). Reflecting on my experiences helps me truly savor them, and who knows, maybe someone out there enjoys reading them too.
 
 ## Dive, Dive, Dive!:
 
-After our crew assembled and fueled up, we huddled, making plans for the day. The decision? Explore West End, check out dive shops, and venture into the renowned snorkeling haven of West Bay. We started out in West End, where my friend's quest for SCUBA certification led us to a man named "Tuna" (I'm not kidding) at [Splash Inn Dive Resort](https://roatansplashinn.com/en/about-our-dive-center/), where he sealed the deal. While he gears up for his underwater adventures later in the week, I'll be sticking to snorkeling (more on that later!).
+After our crew assembled and fueled up, we huddled, making plans for the day. The decision? Explore West End, check out dive shops, and venture into the renowned snorkeling haven of West Bay. We started out in West End, where my friend's quest for SCUBA certification led us to a man named "Tuna" (I'm not kidding) at [Splash Inn Dive Resort](https://roatansplashinn.com/en/about-our-dive-center/), where he sealed the deal for classes. While he gears up for his underwater adventures later in the week, I'll be sticking to snorkeling (more on that later!).
 
 ## Chocolate Bliss:
 
-No trip to Roatán is complete without a visit to [The Roatan Chocolate Factory](https://theroatanchocolatefactory.com/). Though I didn't buy any for fear it would melt, their 80% dark chocolate was incredible. They offer tours during the week too, so I'll be back! 
+No trip to Roatán is complete without a visit to [The Roatan Chocolate Factory](https://theroatanchocolatefactory.com/). Though I didn't buy any for fear it would melt in the car, their 80% dark chocolate was incredible. They offer tours during the week too, so I'll be back! 
 
 ## Snorkeling Ambitions:
 
-With West Bay's reputation as a top snorkeling spot ringing in our ears, we headed over, parking a short walk from the beach. The turquoise water and bustling atmosphere were a stark contrast to our quiet Airbnb in Sandy Bay. I admit I was a little apprehensive at first, but Roatán's reefs are too spectacular not to experience. Lucky my buddy is experienced, and was able to give me pointers, so that helped a lot. After gearing up (thanks to my awesome neighbor for loaning me fins, mask & snorkel), I took a deep breath and entered the underwater world.
+With West Bay's reputation as a top snorkeling spot echoing in our heads, we headed over, parking a short walk from the beach. The turquoise water and bustling atmosphere stood in contrast to our quiet Airbnb in Sandy Bay. I admit I was a little apprehensive at first, but Roatán's reefs are too spectacular not to experience. Luckily my buddy is experienced, and was able to give me pointers, so that helped a lot. After gearing up (thanks to my awesome neighbor for loaning me fins, mask & snorkel), I took a deep breath and entered the underwater world.
 
 ## Words Fail to Describe:
 
@@ -55,7 +55,7 @@ Back at the Airbnb, it was time to fuel up for the Super Bowl, which started at 
 
 ## Dude Food & Sweet Surprises:
 
-Nachos were our Super Bowl party's star, assembled with store-bought ingredients that proved surprisingly delicious. But the real surprise came from our dessert choice, tortilla chips dipped in peanut butter sweetened with honey, showcasing the joy of simple pleasures.
+Nachos were our Super Bowl party's star, assembled with local store-bought ingredients that proved surprisingly delicious. But the real surprise came from our dessert choice, tortilla chips dipped in peanut butter sweetened with honey, showcasing the joy of simple pleasures.
 
 ## Gridiron Thrills (Spanish Style):
 
@@ -63,7 +63,7 @@ Despite not following the Chiefs or 49ers closely, I found the game interesting 
 
 ## Reflecting & Recapping:
 
-Even though I was tired from the long day, I took some time before going to bed to write this post while the details remained fresh. Writing has proven therapeutic so far, whether anyone reads these or not! Sharing my experiences keeps me grounded, and even if it's just for myself, it's time well spent.
+Even though I was tired from the long day, I took a moment before going to bed to write this post while the details remained fresh in my mind. Writing has proven therapeutic so far, whether anyone reads these or not! Sharing my experiences keeps me grounded, and even if it's just for myself, it's time well spent.
 
 ## What's Next?:
 
