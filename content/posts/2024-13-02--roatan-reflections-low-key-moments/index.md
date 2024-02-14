@@ -44,6 +44,9 @@ The evening continued with easy conversation and getting to know each other bett
 
 Tuesday brought wind and rain, a change from the calm days. Some of us, working remotely, logged in for a bit. We extended the car rental for flexibility, and after a bit of teleworking, we renewed the rental at the airport. Post-errand, we explored [Mayak Chocolate](https://photos.app.goo.gl/GeYRzhq8rfWxSHNr7), indulging in a chocolate tour and tastings. The 70% dark chocolate won my taste buds!
 
+![Mayak Chocolate](./media/IMG_6128.jpeg)
+View the complete gallery from the [Mayak Chocolate Tour on Google Photos](https://photos.app.goo.gl/GeYRzhq8rfWxSHNr7).
+
 Returning with our chocolate haul, lunch at the Airbnb featured, you guessed it, more nachos! This time, I may or may not have invented green bean nachos. Yes, you read that right—green beans on nachos. Trust me, they were surprisingly good!
 
 ![Green Bean Nachos](./media/FullSizeRender.jpeg)
