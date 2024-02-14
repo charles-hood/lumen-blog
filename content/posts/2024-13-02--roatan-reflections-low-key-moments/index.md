@@ -21,7 +21,7 @@ Apologies for the lack of updates today; writing a travel blog is harder than it
 
 ## Welcoming Dennis:
 
-Monday brought the arrival of my buddy Dennis to Roatán, prompting another trip to the airport. Navigating the bustling town of Coxen Hole [Coxen Hole](https://en.wikipedia.org/wiki/Coxen_Hole) provided a traffic chaos spectacle. After some customs delay, we finally enjoyed the 80+ degree sunny day, making Dennis question his choice of a long-sleeved shirt and jeans (traveling from San Francisco). 
+Monday brought the arrival of my buddy Dennis to Roatán, prompting another trip to the airport. Navigating the bustling town of [Coxen Hole](https://en.wikipedia.org/wiki/Coxen_Hole) provided a traffic chaos spectacle. After some customs delay, we finally enjoyed the 80+ degree sunny day, making Dennis question his choice of a long-sleeved shirt and jeans (traveling from San Francisco). 
 
 Opting for the scenic route back, we stopped by the grocery store for Dennis to stock up on essentials, mainly for more nachos!
 
