@@ -55,6 +55,6 @@ Returning with our chocolate haul, lunch at the Airbnb featured, you guessed it,
 
 With the afternoon free, I caught up on blogging, finding it therapeutic to document the day's moments. It felt good to write, and a couple of people actually asked, "Where's the blog update for today?" (Practically going viral! 🤣)
 
-Dinner plans for [Taco Tuesday](./media/IMG_6154.jpeg) will round off another day of conversation and camaraderie. As clouds gather, no sunset photos are expected tonight. With that, I'm signing off. Adios for now! 
+Dinner plans for <a href="./media/IMG_6154.jpeg" target="_blank">Taco Tuesday</a> will round off another day of conversation and camaraderie. As clouds gather, no sunset photos are expected tonight. With that, I'm signing off. Adios for now!
 
 P.S. Sometimes it [rains.](https://youtu.be/QuIY_zHXqdA?si=E7XYrjzUBXd0tQlu)
