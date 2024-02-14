@@ -9,12 +9,12 @@ tags:
   - "Roatan"
   - "Adventure"
   - "Island Life"
-description: "A day of low-key island moments and unexpected delights."
-socialImage: "./media/roatan_hammock.jpeg"
+description: "The Entourage Grows and Honduran Chocolate."
+socialImage: "./media/IMG_6136.jpeg"
 ---
 
 <div style="float: right; margin: 0 0 10px 20px; width: 200px; border-radius: 10px; overflow: hidden;">
-  <img src="./media/roatan_hammock.jpeg" alt="Dennis in Hammock" style="width: 100%;">
+  <img src="./media/IMG_6136.jpeg" alt="Charles Has Chocolate" style="width: 100%;">
 </div>
 
 Apologies for the lack of updates today; writing a travel blog is harder than it looks! 🤣 Let me catch you up on the latest adventures.
@@ -26,7 +26,7 @@ Monday brought the arrival of my buddy Dennis to Roatán, prompting another trip
 Opting for the scenic route back, we stopped by the grocery store for Dennis to stock up on essentials, mainly for more nachos!
 
 After settling in, Dennis embraced the island vibe, crashing hard in the hammock, capturing a priceless moment: 
-![Dennis Sleeping in Hammock](INSERT_LINK_TO_PIC_OF_DENNIS_IN_HAMMOCK)
+![Dennis Sleeping in Hammock](./media/IMG_6043.jpeg)
 
 ## Parrot Serenade:
 
@@ -46,11 +46,10 @@ Tuesday brought wind and rain, a change from the calm days. Some of us, working 
 
 Returning with our chocolate haul, lunch at the Airbnb featured, you guessed it, more nachos! This time, I may or may not have invented green bean nachos. Yes, you read that right—green beans on nachos. Trust me, they were surprisingly good!
 
-![Green Bean Nachos](INSERT_LINK_TO_PIC_OF_GREEN_BEAN_NACHOS)
+![Green Bean Nachos](./media/FullSizeRender.jpeg)
 
 ## Writing Retreat:
 
 With the afternoon free, I caught up on blogging, finding it therapeutic to document the day's moments. It felt good to write, and a couple of people actually asked, "Where's the blog update for today?" (Practically going viral! 🤣)
 
 Dinner plans for "Taco Tuesday" will round off another day of conversation and camaraderie. As clouds gather, no sunset photos are expected tonight. With that, I'm signing off. Adios for now!
-
