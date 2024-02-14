@@ -17,7 +17,7 @@ socialImage: "./media/IMG_6151.jpeg"
   <img src="./media/IMG_6151.jpeg" alt="Charles Has Chocolate" style="max-width: 100%; height: auto;">
 </div>
 
-Apologies for the lack of updates today; writing a travel blog is harder than it looks! 🤣 Let me catch you up on the latest adventures.
+Hey everyone! Sorry for the radio silence – turns out writing a travel blog is harder than it looks!  But fear not, I'm back with updates from sunny Roatán.
 
 ## Welcoming Dennis:
 
@@ -42,7 +42,7 @@ The evening continued with easy conversation and getting to know each other bett
 
 ## Windy Tuesday:
 
-Tuesday brought wind and rain, a change from the calm days. Some of us, working remotely, logged in for a bit. We extended the car rental for flexibility, and after a bit of teleworking, we renewed the rental at the airport. Post-errand, we explored [Mayak Chocolate](https://photos.app.goo.gl/GeYRzhq8rfWxSHNr7), indulging in a chocolate tour and tastings. The 70% dark chocolate won my taste buds!
+Tuesday brought wind and rain, a change from the calm days. Some of us, working remotely, logged in for a bit. We extended the car rental for flexibility, and after a bit of teleworking, we renewed the rental at the airport. Post-errand, we explored [Mayak Chocolate](https://photos.app.goo.gl/GeYRzhq8rfWxSHNr7), indulging in a chocolate tour and tastings. We learned about the history of cocoa and its significance in Honduras, sampled delicious chocolates (the 70% dark was my favorite!), and even filled a gift box with assorted flavors (ahem, for friends back home... maybe).
 
 ![Mayak Chocolate](./media/IMG_6128.jpeg)
 View the complete gallery from the [Mayak Chocolate Tour on Google Photos](https://photos.app.goo.gl/GeYRzhq8rfWxSHNr7).
