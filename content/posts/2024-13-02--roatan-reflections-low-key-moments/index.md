@@ -14,7 +14,7 @@ socialImage: "./media/IMG_6136.jpeg"
 ---
 
 <div style="float: right; margin: 0 0 10px 20px; width: 25%;">
-  <img src="./media/IMG_6136.jpeg" alt="Charles Has Chocolate" style="width: 100%; height: auto;">
+  <img src="./media/IMG_6136.jpeg" alt="Charles Has Chocolate" style="max-width: 100%; height: auto;">
 </div>
 
 Apologies for the lack of updates today; writing a travel blog is harder than it looks! 🤣 Let me catch you up on the latest adventures.
