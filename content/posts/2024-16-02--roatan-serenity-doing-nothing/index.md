@@ -10,7 +10,7 @@ tags:
   - "Island Life"
   - "Tranquility"
 description: "Serene moments and perfecting leisure."
-socialImage: "./media/serenity_cover.jpeg"
+socialImage: "./media/FullSizeRender.jpeg"
 ---
 
 As the warm February sun enveloped us on Roatán, our days were a celebration of simplicity. Here's a glimpse into the tranquil moments that made my island escape pretty unforgettable:
