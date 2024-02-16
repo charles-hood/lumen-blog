@@ -19,7 +19,7 @@ As the warm February sun enveloped us on Roatán, our days were a celebration of
 
 My friend group reveled in the luxury of doing nothing, basking in the extraordinary weather that felt like a dream for a February escape. The absence of a constant need to be on the go allowed us to immerse ourselves in relaxed conversations, sharing stories, and simply enjoying the breeze. The nearby resort brought regular sightings of people on horseback, adding a unique rhythm to the peaceful ambiance.
 
-![Serenity](./media/serenity_placeholder.jpeg)
+![Serenity](./media/IMG_6227.jpeg)
 
 ## Geico on the Porch:
 
