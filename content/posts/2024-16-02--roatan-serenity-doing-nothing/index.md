@@ -15,7 +15,7 @@ socialImage: "./media/FullSizeRender.jpeg"
 
 Every day in Roatán has been a celebration of simplicity. Here's a glimpse into the moments that made my island escape pretty unforgettable:
 
-##Lazy Days in Paradise:
+## Lazy Days in Paradise:
 
 My friend group and I cherished the luxury of doing nothing, savoring the extraordinary weather that felt like a dream for a February escape. The absence of a constant need to be on the go allowed us to immerse ourselves in relaxed conversations, share stories, and simply enjoy the breeze. The nearby resort brought regular sightings of people on horseback, adding a unique rhythm to the peaceful scene outside our patio.
 
