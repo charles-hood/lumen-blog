@@ -13,8 +13,6 @@ description: "Observations after returning from a week in Roatán."
 socialImage: "./media/Forest.jpg"
 ---
 
-# Back from Roatán: A Week Away, A New Perspective
-
 Returning from a week in Roatán, I've noticed a few things that shed light on how a short break can change your perspective on home:
 
 ## Feeling the Chill
