@@ -19,7 +19,7 @@ Returning from a week in Roatán, I've noticed a few things that shed light on h
 
 ## Feeling the Chill
 
-After basking in Roatán's warmth, the 50º F temperature back home feels surprisingly cold. It's amusing how quickly my definition of "chilly" has shifted.
+After basking in Roatán's warmth, the 47º F temperature back home feels surprisingly cold. It's amusing how quickly my definition of "chilly" has shifted.
 
 ## Order in Traffic
 
