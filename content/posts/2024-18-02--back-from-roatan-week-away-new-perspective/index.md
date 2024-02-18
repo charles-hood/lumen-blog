@@ -10,7 +10,7 @@ tags:
   - "Perspective"
   - "Culture Shock"
 description: "Observations after returning from a week in Roatán."
-socialImage: "./media/roatan_perspective_cover.jpeg"
+socialImage: "./media/FullSizeRender.jpeg"
 ---
 
 # Back from Roatán: A Week Away, A New Perspective
