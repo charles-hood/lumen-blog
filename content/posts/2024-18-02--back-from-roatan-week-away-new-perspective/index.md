@@ -13,6 +13,10 @@ description: "Observations after returning from a week in Roatán."
 socialImage: "./media/Forest.jpg"
 ---
 
+<div style="float: right; margin: 0 0 10px 20px; width: 25%;">
+  <img src="./media/Forest.jpg" alt="Winter Woods" style="max-width: 100%; height: auto;">
+</div>
+
 Returning from a week in Roatán, I've noticed a few things that shed light on how a short break can change your perspective on home:
 
 ## Feeling the Chill
