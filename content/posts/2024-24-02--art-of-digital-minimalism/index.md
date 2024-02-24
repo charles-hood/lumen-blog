@@ -10,11 +10,11 @@ tags:
   - "Mindfulness"
   - "Technology"
 description: "How to reclaim tranquility in our hyper-connected world."
-socialImage: "./media/Digital-minimalism.png"
+socialImage: "./media/Digital-noise.png"
 ---
 
 <div style="float: right; margin: 0 0 10px 20px; width: 25%;">
-  <img src="./media/Digital-minimalism.png" alt="AI allies" style="max-width: 100%; height: auto;">
+  <img src="./media/Digital-noise.png" alt="Digital Noise" style="max-width: 100%; height: auto;">
 </div>
 
 In our ever-connected world, finding tranquility amid the digital chaos is an art form. Let's explore the practical steps of digital minimalism and discover how they can bring a sense of peace to our daily lives. 🧘‍♂️
@@ -43,11 +43,11 @@ Curate your content consumption just like you curate your snacks. Follow blogs, 
 
 Rediscover analog activities, such as reading physical books or journaling with a pen and paper. Create tech-free zones in your home, starting with your bed. Let these spaces be sacred, allowing your mind to unwind without the glow of screens.
 
-![Digital Noise](./media/Digital-noise.png)
-
 ## 6. Zen Mode
 
 Practice single-tasking to enhance focus and productivity. Before scrolling through social media, ask yourself if the content is worth your time and mental energy. Consider setting a timer for your social media use to stay mindful of your screen time.
+
+![Digital Noise](./media/Digital-minimalism.png)
 
 ## 7. Reflect and Tweak
 
