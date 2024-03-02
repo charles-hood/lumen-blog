@@ -13,8 +13,10 @@ description: "Plotting a road trip through Arizona with AI as my virtual vacatio
 socialImage: "./media/ArizonaRoadTrip.jpg"
 ---
 
-<div style="float: right; margin: 0 0 10px 20px; width: 200px;">
-  <img src="./media/ArizonaRoadTrip.jpg" alt="Arizona Road Trip" style="width: 100%; border-radius: 10px;">
+<div style="float: right; margin: 0 0 10px 20px; width: 200px; text-align: center;">
+  <a href="#photo-credits-list">
+    <img src="./media/ArizonaRoadTrip.jpg" alt="Click for Photo Credits" style="width: 100%; border-radius: 10px;">
+  </a>
 </div>
 
 *It’s fun to use AI to plan hypothetical trips. (Disclaimer: I have no intention of going on this trip; it’s just a fun exercise.)*
@@ -64,3 +66,35 @@ End your unforgettable trip in Phoenix, where the average high temperature is a 
 *Total driving distance of this hypothetical adventure: 1,533 miles within Arizona.*
 
 **👍 What do you think?** Did the AI do a good job? Would you take this trip?
+
+<details>
+<summary><small id="photo-credits-list">*Click for Photo Credits*</small></summary>
+
+- [Papago Park](https://commons.wikimedia.org/wiki/File:Papago_Park_(4298117486).jpg)  
+  Author: John Fowler from Placitas, NM, USA
+
+- [Saint Mary's Basilica](https://commons.wikimedia.org/wiki/File:Saint_Mary%27s_Basilica001.jpg)  
+  Author: Saint Christopher at en.wikipedia
+
+- [Phoenix, Arizona](https://commons.wikimedia.org/wiki/File:Phoenix,_Arizona.jpg)  
+  Author: Humberto Moreno
+
+- [Downtown Phoenix Skyline Lights](https://commons.wikimedia.org/wiki/File:Downtown_Phoenix_Skyline_Lights.jpg)  
+  Author: Alan Stark
+
+- [Arizona Science Center 2011](https://commons.wikimedia.org/wiki/File:Arizona_Science_Center_2011.jpg)  
+  Author: Kirs10 (talk)
+
+- [Rosso House](https://commons.wikimedia.org/wiki/File:Rosso_House-1.jpg)  
+  Author: Visitor7 at en.wikipedia
+
+- [Phoenix Exterior Camelback.2009](https://commons.wikimedia.org/wiki/File:Phoenix_Exterior_Camelback.2009.jpg)  
+  Author: Humberto Moreno
+
+- [Cactus](https://commons.wikimedia.org/wiki/File:Cactus-2.jpg)  
+  Author: Visitor7 at en.wikipedia
+
+- [McDowell Mountains at sunset](https://commons.wikimedia.org/wiki/File:McDowell_Mountains_at_sunset.jpg)  
+  Author: Harald Nagel at en.wikipedia, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
+</details>
