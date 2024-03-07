@@ -36,5 +36,3 @@ I’m curious to know if any of my friends and readers share my interest in this
 And while I'm excited about my plans for this weekend, I'm equally interested in hearing about what my friends have in store. Whether you're attending a different event, exploring a new hobby, or simply enjoying some well-deserved rest and relaxation, I'd love to know what's on your agenda.
 
 So, let's celebrate the joy of discovery and share our weekend plans. Who knows? We might just inspire each other to try something new or see the world from a different perspective.
-
-Here's to a weekend filled with wonder, both on Earth and in the cosmos!
